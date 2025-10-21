@@ -15,3 +15,7 @@ service:
 
 server:
   port: 8080
+
+custom:
+  message: "초기 메시지"
+  version: "1.0.0"
